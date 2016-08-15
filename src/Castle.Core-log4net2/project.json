@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0-*",
+
+	"dependencies": {
+		"Castle.Core": "3.3.3",
+		"log4net": "2.0.5"
+	},
+
+	"frameworks": {
+		"net461": {
+			"frameworkAssemblies": {
+				"System.Xml": "4.0.0.0"
+			}
+		}
+	}
+}
