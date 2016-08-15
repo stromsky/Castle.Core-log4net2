@@ -6,6 +6,7 @@ _ReSharper*/
 *.csproj.ReSharper
 
 # Build output
+releases/
 build/
 artifacts/
 src/**/obj/
